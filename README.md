@@ -1,16 +1,11 @@
 # waiter_notebook
 
-A new Flutter project.
+Waiter Notebook Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter application designed to assist waiters in managing orders and tables efficiently.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Order Management: Allows waiters to easily input and modify customer orders.
+Table Tracking: Provides a visual representation of the restaurant layout and table statuses.
+History: Logs all past orders for reference and accounting purposes.
